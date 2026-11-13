@@ -1,0 +1,8 @@
+{
+  "key.donutpay.config": "Open DonutPay Settings",
+  "key.donutpay.stats": "Open DonutPay Stats",
+  "key.donutpay.leaderboard": "Toggle Top Donators Leaderboard",
+  "key.donutpay.board_prev": "Leaderboard: Previous Server",
+  "key.donutpay.board_next": "Leaderboard: Next Server",
+  "key.category.donutpay.main": "DonutPay Tracker"
+}
